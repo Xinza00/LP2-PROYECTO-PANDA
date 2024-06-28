@@ -1,0 +1,5 @@
+package com.panda.demo.facturas.modelos;
+
+public class Item {
+
+}
